@@ -1,3 +1,4 @@
 POBIERZ 
 npm i discord.js
 npm i ytdl-core
+npm i ffmpeg-static
